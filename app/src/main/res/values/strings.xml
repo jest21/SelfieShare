@@ -3,4 +3,5 @@
     <string name="capture">Capture</string>
     <string name="share">Share</string>
     <string name="displays_captured_image">Displays Captured Image</string>
+    <string name="file_uri">file:///sdcard/temporary_file.jpg</string>
 </resources>
